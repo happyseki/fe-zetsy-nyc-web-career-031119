@@ -40,7 +40,6 @@ p  {
 	margin: 0 0 20px 0;
 }
 
->>>>>>> 758dfa9db2b1b7f92ffabef00c462ff636a43f39
 /* Write all remaining styles here */
 header a {
 	color: rgb(152,173,166);
@@ -51,19 +50,17 @@ header a:hover {
 	color: rgb(111,127,122);
 }
 
-<<<<<<< HEAD
+
 header img {
 	border: 5px rgb(152,173,166) solid;
 }
 
-a {
-=======
+
 #featured img {
 	border: 5px rgb(152,173,166) solid;
 }
 
 #featured a {
->>>>>>> 758dfa9db2b1b7f92ffabef00c462ff636a43f39
 	color: #1783bb;
 	text-decoration: none;
 }
@@ -85,11 +82,7 @@ a {
 	border: 5px rgb(111,127,122) solid;
 }
 
-<<<<<<< HEAD
-footer p{
-=======
 footer {
->>>>>>> 758dfa9db2b1b7f92ffabef00c462ff636a43f39
 	text-align: right;
 	background: #fff;
 }
